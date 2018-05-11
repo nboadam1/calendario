@@ -1,0 +1,11 @@
+Buenas noches,
+
+Carpetas:
+
+bd: Se encuentra la estructura de la base de datos realizada en mysql con algunos datos almacenados.
+client: Contiene el front-end del calendario.
+server: contiene los modelos que interactuan con la base de datos.
+
+Nota:
+* Las contraseñas se encuentran encrIptadas en SHA1.
+* Las contraseñas para los 3 usuarios creados es: Colombia2018
